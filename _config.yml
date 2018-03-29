@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Sayan Ghosh"
-  avatar           : "sayan_cartoon.png"
+  avatar           : "/images/sayan_cartoon.png"
   bio              : "Bio"
   location         : "Richland, WA"
   employer         :
