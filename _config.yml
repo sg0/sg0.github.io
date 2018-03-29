@@ -79,12 +79,12 @@ analytics:
 # Site Author
 author:
   name             : "Sayan Ghosh"
-  avatar           : "/images/sayan_cartoon.png"
-  bio              : "Bio"
+  avatar           : "/images/sayan_ghosh.jpg"
+  bio              : ""
   location         : "Richland, WA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=5X5c8OkAAAAJ&hl=en"
-  email            : "sayan.ghosh@wsu.edu"
+  email            : "zsayanz@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
