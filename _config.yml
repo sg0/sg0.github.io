@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : ""
 name                     : &name "Sayan Ghosh"
-description              : &description "PhD candidate"
+description              : &description "Computer Scientist"
 url                      : https://sg0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sg0.github.io"
@@ -84,7 +84,7 @@ author:
   location         : "Richland, WA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=5X5c8OkAAAAJ&hl=en"
-  email            : "zsayanz@gmail.com"
+  email            : "sayan.ghosh@pnnl.gov"
   uri              :
   bitbucket        :
   codepen          :
